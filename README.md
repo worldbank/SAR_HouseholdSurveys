@@ -18,11 +18,13 @@ In this repository, we have the following years available:
 
 ## Getting Started
 ### Executing program
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+1. Run the Master do file available in the "Master" directory for each country and year. 
+2. Run the SARMD do files available in the "SARMD" directory for each country and year.
+   a. First, please run the Income do file "code_year_survey__INC.do". b.
+   b. Then, run the IND do file "code_year_survey__IND.do"
+4. Run the SARMD do files available in the "GMD" directory for each country and year, in the following order:
+   a. Run the COR, DEM, DWL,GEO,IDN,LBR, UTL do files.
+   b. Run the GMD do file (that will allow you to have the final GMD database that is uploaded to datalibweb).
 
 ## Help
 For any questions, please get in contact with the SAR Statistical Team at: sardatalab@worldbank.org
