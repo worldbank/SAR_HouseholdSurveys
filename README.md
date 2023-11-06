@@ -17,13 +17,19 @@ In this repository, we have the following years available:
 | 2022    |     --      | A          | A  | --   | --  | --   | --  |  --  | 
 
 ## Getting Started
-### Executing program
-1. Run the Master do file available in the "Master" directory for each country and year. 
-2. Run the SARMD do files available in the "SARMD" directory for each country and year.
-   a. First, please run the Income do file "code_year_survey__INC.do". b.
-   b. Then, run the IND do file "code_year_survey__IND.do"
+### Step-by-step explanation
+1. Run the Master do file available in the "Master" directory for each country and year: "code_year_survey_M". 
+  
+2. Run the SARMD do files available in the "SARMD" directory for each country and year: "code_year_survey_SARMD".
+   <br>
+   a. First, please run the Income do file "code_year_survey__INC.do".
+   <br>
+   b. Then, run the IND do file "code_year_survey__IND.do".
+   
 4. Run the SARMD do files available in the "GMD" directory for each country and year, in the following order:
+   <br>
    a. Run the COR, DEM, DWL,GEO,IDN,LBR, UTL do files.
+   <br>
    b. Run the GMD do file (that will allow you to have the final GMD database that is uploaded to datalibweb).
 
 ## Help
