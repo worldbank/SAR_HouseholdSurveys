@@ -25,7 +25,7 @@ set more off
 local code         	"BGD"
 local year         	"2022"
 local survey       	"HIES"
-local vm           	"01"
+local vm           	"02"
 local va          	"01"
 local type         	"SARMD"
 global module       	"IND"
