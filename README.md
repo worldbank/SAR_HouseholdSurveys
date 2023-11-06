@@ -8,13 +8,13 @@ This repository allows to harmonize the Bangladesh Household Surveys (HIES).
 Here you can find all the Stata do files codes for the Bangladesh Household Survey (HIES) that is used by the South Asia Regional (SAR) Statistical Team at the World Bank. 
 In this repository, we have the following years available:
 
-| Household Survey | Year | 
-| :---- | :----: | 
-| Household Income and Expenditure Survey (HIES) | 2022 | 
-| Household Income and Expenditure Survey (HIES) | 2016 | 
-| Household Income and Expenditure Survey (HIES) | 2010 | 
-| Household Income and Expenditure Survey (HIES) | 2005 |
-| Household Income and Expenditure Survey (HIES) | 2000 | 
+| Year    | Afghanistan | Bangladesh | Bhutan | India  | Maldives | Nepal  | Pakistan | Sri Lanka | 
+| :----   | :----:      | :----:     | :----: | :----: |  :----:  | :----: | :----:   | :----:    | 
+| 2000    |     --      | A          | --  | --   | --  | --   | --  |  --  | 
+| 2005    |     --      | A          | --  | --   | --  | --   | --  |  --  | 
+| 2010    |     --      | A          | --  | --   | --  | --   | --  |  --  | 
+| 2016    |     --      | A          | --  | --   | --  | --   | --  |  --  | 
+| 2022    |     --      | A          | A  | --   | --  | --   | --  |  --  | 
 
 ## Getting Started
 ### Executing program
