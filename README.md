@@ -1,4 +1,4 @@
-# HouseholdSurveys_BGD
+# SAR_HouseholdSurveys
 This repository allows to harmonize the Bangladesh Household Surveys (HIES).
 <br>
 <br>
