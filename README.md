@@ -1,11 +1,11 @@
 # SAR_HouseholdSurveys
-This repository allows to harmonize the Bangladesh Household Surveys (HIES).
+This repository allows to harmonize the Household Surveys (HIES) for the South Asia Region.
 <br>
 <br>
 <br>
 
 ## Description
-Here you can find all the Stata do files codes for the Bangladesh Household Survey (HIES) that is used by the South Asia Regional (SAR) Statistical Team at the World Bank. 
+Here you can find all the Stata do files codes for the Household Surveys used by the South Asia Regional (SAR) Statistical Team at the World Bank. 
 In this repository, we have the following years available:
 
 | Year    | Afghanistan | Bangladesh | Bhutan | India  | Maldives | Nepal  | Pakistan | Sri Lanka | 
