@@ -39,8 +39,6 @@ For any questions, please get in contact with the SAR Statistical Team at: sarda
 
 ## Authors
 SAR Stats Team
-* Leopoldo Tornarolli
-* Adriana Castillo-Castillo
 
 ## Version History
 * 0.1
